@@ -1,6 +1,6 @@
 # pidief_editor
 
-A new Flutter project.
+Do edycji pdf
 
 ## Getting Started
 
